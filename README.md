@@ -16,7 +16,7 @@ El propósito de este este proyecto y repositorio es el de servir como fuente de
 Dado que el objetivo principal es brindar difundir información para alcanzar la mayor cantidad posible de personas, todo el contenido del sitio web se brinda de forma gratuita y cualquier persona puede contribuir.
 
 # Principios
-El principio principal de la comunidad es difundir información sobre tecnologías de blockchain y tecnologías open source abiertamente, proteger información o datos por medio de estas tecnologías, por lo que no creemos en limitar u ocultar información. Cualquier información o proyecto que nazca a partir de estas iniciativas deben cumplir con este principio principal.
+El principio principal de la comunidad es difundir información sobre **tecnologías de blockchain** y **tecnologías open source** libremente, proteger información o datos por medio de estas tecnologías, por lo que no creemos en limitar u ocultar información. Cualquier información o proyecto que nazca a partir de esta iniciativa deben cumplir con este principio principal.
 
 # Contenido
 El sitio web se puede acceder por medio del URL https://web3ni.github.io
