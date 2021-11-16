@@ -28,5 +28,11 @@ Todo el contenido en el sitio web se brinda gratuitamente por medio de la licenc
 
 Los puntos de arriba son un resumen, favor leer el archivo LICENSE en este repositorio para mayor información sobre lo que cubre la licencia.
 
+# Contribuyendo
+Cualquier persona puede contribuir a crear o editar contenido. Leer el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para mayor información.
+
+# Comentarios
+Para comentarios, sugerencias usar el área de [Discussions](https://github.com/Web3NI/web3ni.github.io/discussions).
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.es">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
