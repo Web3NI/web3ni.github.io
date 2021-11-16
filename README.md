@@ -20,7 +20,8 @@ El sitio web se puede acceder por medio del URL https://web3ni.github.io
 
 Todo el contenido en el sitio web se brinda gratuitamente por medio de la licencia [Creative Commons](LICENSE),  nadie es "dueño de la información". Dado esto, las personas son libres de compartir, republicar el contenido en otras partes donde deseen, siempre y cuando:
 1. Se de crédito a la organización (Web3NI) o persona que publicó originalmente el contenido.
-2. El nuevo contenido se rija por la misma licencia de Creative Commons.
+2. Se incluya un enlace al sitio web donde se encuentra el contenido original.
+3. Si se crea nuevo contenido a partir de éste, el nuevo contenido se debe de rejir por la misma licencia de Creative Commons.
 
 
 
