@@ -6,7 +6,7 @@ Hola 👋
 Bienvenido al repositorio para sitio web de **BitcoinNicaragua.org**  
 
 # Objetivo
-El propósito de este este proyecto y repositorio es el de servir como fuente de información para los interesados en Nicaragua sobre todos los temaras relacionados con:
+El propósito de este este proyecto y repositorio es el de servir como fuente de información para los interesados en Nicaragua sobre todos los temas relacionados con:
 - Bitcoin y criptomonedas 
 - Web3 y tecnologías Blockchain
 - Descentrelización y democratización de la información
