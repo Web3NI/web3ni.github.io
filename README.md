@@ -3,20 +3,19 @@
 # web3ni.github.io
 Hola 👋 
 
-Bienvenido al repositorio para sitio web de la comunidad **Web3 en Nicaragua**.  
+Bienvenido al repositorio para sitio web de **BitcoinNicaragua.org**  
 
 # Objetivo
-El propósito de este este proyecto y repositorio es el de servir como fuente de información para los interesados en Nicaragua sobre todos los temaras relacionados con:
-- Tecnologías Blockchain
-- Web3
+El propósito de este este proyecto y repositorio es el de servir como fuente de información para los interesados en Nicaragua sobre todos los temas relacionados con:
+- Bitcoin y criptomonedas 
+- Web3 y tecnologías Blockchain
 - Descentrelización y democratización de la información
-- Bitcoin y criptomonedas
 - Proyectos y aplicación de esta tecnología al ambiente de Nicaragua
 
 Dado que el objetivo principal es brindar difundir información para alcanzar la mayor cantidad posible de personas, todo el contenido del sitio web se brinda de forma gratuita y cualquier persona puede contribuir.
 
 # Principios
-El principio principal de la comunidad es difundir información sobre **tecnologías de blockchain** y **tecnologías open source** libremente, proteger información o datos por medio de estas tecnologías, por lo que no creemos en limitar u ocultar información. Cualquier información o proyecto que nazca a partir de esta iniciativa deben cumplir con este principio principal.
+El principio principal de la comunidad es difundir información sobre **tecnologías de blockchain** y **open source** libremente, proteger información o datos por medio de estas tecnologías, por lo que no creemos en limitar u ocultar información. Cualquier información o proyecto que nazca a partir de esta iniciativa deben cumplir con este principio principal.
 
 # Contenido
 El sitio web se puede acceder por medio del URL https://web3ni.github.io
